@@ -1,0 +1,20 @@
+.firstcard {
+	background-image: linear-gradient(to right bottom, #6923d6, #5a2bd7, #4931d7, #3436d7, #0f3ad6);
+	opacity: .75;
+}
+.secondcard {
+	background-image: linear-gradient(to right bottom, #ff8500, #ff6936, #ff5055, #fa3e72, #e5398b);
+	opacity: .8;
+}
+.thirdcard {
+	background-image: linear-gradient(to right bottom, #d966ed, #c551eb, #ae3deb, #9228eb, #7012eb);
+	opacity: .9;
+}
+.fourthcard{
+	background-image: linear-gradient(to right bottom, #3bdebb, #00ced4, #00bce8, #00a5ef, #398be5);
+	opacity: ,8;
+}
+
+.firstcard:hover{opacity: .85;}
+.secondcard:hover{opacity: .89;}
+.thirdcard:hover{opacity: .97;}
